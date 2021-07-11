@@ -1,0 +1,3 @@
+C:\Users\ficks\Desktop\programação\desafioSWAPP\SWAPP\SWAPP\obj\Debug\SWAPP.njsprojAssemblyReference.cache
+C:\Users\ficks\Desktop\programação\desafioSWAPP\SWAPP\SWAPP\obj\Debug\SWAPP.njsproj.CoreCompileInputs.cache
+C:\Users\ficks\Desktop\programação\desafioSWAPP\SWAPP\SWAPP\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,9 @@
+{
+  "name": "swapp",
+  "version": "0.0.0",
+  "description": "SWAPP",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
